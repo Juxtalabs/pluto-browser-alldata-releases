@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/Juxtalabs/pluto-browser-alldata-releases/releases/download/v1.0.0/Pluto-Browser-1.0.0-standard-mac-universal.zip",
+  "sha256": "3b340ae17b81bf6e40f2e309567f6eaaa3492c1f3fc52b4e3e8368336a07c1bf",
+  "notes": "- feat(release): first Pluto Browser release for All Data, connected to pluto.alldataint.com, with the same features as Pluto Browser 1.0.0"
+}

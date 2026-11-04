@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/Juxtalabs/pluto-browser-alldata-releases/releases/download/v1.0.1/PlutoBrowserSetup.exe",
-  "sha256": "c8b6163fccbcc595ec9cee8dc822de79703c429022636a5c42d4d1a084052cab",
-  "notes": "- feat(downloads): show downloads in a dark panel under the toolbar's download button, with progress, time left, open, show in folder, cancel and clear all\n- feat(downloads): open the panel for a few seconds when a download starts, without taking the keyboard from the page\n- feat(downloads): show a progress ring on the toolbar's download icon while a download runs\n- feat(downloads): ask before opening a downloaded program such as an .exe or .msi\n- fix(downloads): cancel a download that is still running when the user signs out\n- feat(passwords): add a close button to the save-password prompt; it and Esc dismiss the prompt without blocking the site\n- fix(passwords): offer \"Update password?\" only when the password really changed\n- fix(passwords): offer \"Not now\" instead of \"Never\" where \"Never\" would delete a saved password for that site\n- fix(ui): stop the address bar's suggestion list from staying open over the page after clicking away or pressing Esc\n- feat(ui): show the exit button on the toolbar on every seat; a policy exit password still guards it\n- fix(session): stop the start page from staying blank after sign-in on slow PCs\n- fix(policy): apply a keep-signed-in change at the next sign-in instead of in the middle of a session"
+  "version": "1.0.2",
+  "url": "https://github.com/Juxtalabs/pluto-browser-alldata-releases/releases/download/v1.0.2/PlutoBrowserSetup.exe",
+  "sha256": "cce0d7b194ff308cfd3a87872308a4ffa834a7822bb2bd890239a737df9b8ed7",
+  "notes": "- feat(sidepanel): show the ai curation date below the product summary\n- fix(ui): stop canva flickering on windows while keeping gpu acceleration enabled"
 }
